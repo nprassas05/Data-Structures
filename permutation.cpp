@@ -15,7 +15,7 @@ void permuteHelper(string, string);
 
 int main(int argc, const char * argv[]) {
     
-    permute("ab");
+    permute("abc");
     return 0;
 }
 
