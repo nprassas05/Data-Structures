@@ -7,14 +7,7 @@ int recursiveBinarySearch(vector<int>&, int, int, int);
 
 int main()
 {
-    vector<int> vec;
-    vec.push_back(2);
-    vec.push_back(5);
-    vec.push_back(12);
-    vec.push_back(18);
-    vec.push_back(21);
-    vec.push_back(25);
-    vec.push_back(30);
+    vector<int> vec = {2, 5, 12, 18, 21, 25, 30};
 
     int searchNum;
     cout << "Enter a number to search for (Enter -9999 to quit): ";
