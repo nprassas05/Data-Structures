@@ -2,7 +2,7 @@
 //  ArrayList.h
 //  
 //
-//  Created by Elena PRASSAS on 12/24/16.
+//  Created by Niko PRASSAS on 12/24/16.
 //
 //
 
