@@ -2,7 +2,7 @@
 //  main.cpp
 //  avgFile
 //
-//  Created by Elena PRASSAS on 12/23/16.
+//  Created by Niko PRASSAS on 12/23/16.
 //  Copyright (c) 2016 manhattan college. All rights reserved.
 //
 
