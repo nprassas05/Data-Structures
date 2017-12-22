@@ -2,7 +2,7 @@
 //  main.cpp
 //  arrayList
 //
-//  Created by Elena PRASSAS on 12/24/16.
+//  Created by Niko PRASSAS on 12/24/16.
 //  Copyright (c) 2016 manhattan college. All rights reserved.
 //
 
