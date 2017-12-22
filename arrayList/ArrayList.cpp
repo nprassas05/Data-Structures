@@ -2,9 +2,6 @@
 //  ArrayList.cpp
 //  
 //
-//  Created by Elena PRASSAS on 12/24/16.
-//
-//
 
 #include "ArrayList.h"
 #include <iostream>
